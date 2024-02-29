@@ -16,7 +16,5 @@ public class Merchant implements Seller {
 
     public enum Goods {
         POTION
-
-
     }
 }

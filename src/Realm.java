@@ -131,5 +131,4 @@ public class Realm {
 
         void fightLost();
     }
-
 }
